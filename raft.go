@@ -1,3 +1,6 @@
+// dmitrime [https://bluedive.site/]
+// This code is in the public domain.
+
 package raft
 
 import (
