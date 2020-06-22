@@ -30,9 +30,9 @@ const (
 	Killed          = "killed"
 )
 
-const MinElectionInterval = 250
-const HeartbeatInterval = 100
-const ApplyInterval = 200
+const MinElectionInterval = 160
+const HeartbeatInterval = 80
+const ApplyInterval = 50
 
 //
 // A Go object implementing a single Raft peer.
